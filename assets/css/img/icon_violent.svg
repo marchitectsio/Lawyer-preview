@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Violent crimes icon">
+  <path d="M32 10l20 8v14c0 13-8 22-20 26-12-4-20-13-20-26V18l20-8Z" fill="rgba(200,162,74,0.14)" stroke="#c8a24a" stroke-width="2"/>
+  <path d="M32 20v26" stroke="#c8a24a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M24 30h16" stroke="#c8a24a" stroke-width="2" stroke-linecap="round"/>
+</svg>

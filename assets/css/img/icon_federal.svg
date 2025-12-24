@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Federal crimes icon">
+  <path d="M32 10l16 8v14c0 11-6 20-16 24-10-4-16-13-16-24V18l16-8Z" fill="rgba(200,162,74,0.14)" stroke="#c8a24a" stroke-width="2"/>
+  <path d="M20 26h24" stroke="#c8a24a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M24 38h16" stroke="#c8a24a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M28 18h8" stroke="#c8a24a" stroke-width="2" stroke-linecap="round"/>
+</svg>

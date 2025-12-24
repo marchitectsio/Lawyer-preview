@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Drug crimes icon">
+  <path d="M22 10h20v8H22z" fill="rgba(200,162,74,0.12)" stroke="#c8a24a" stroke-width="2"/>
+  <rect x="18" y="18" width="28" height="34" rx="10" fill="rgba(200,162,74,0.16)" stroke="#c8a24a" stroke-width="2"/>
+  <path d="M24 32h16" stroke="#c8a24a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 24v16" stroke="#c8a24a" stroke-width="2" stroke-linecap="round"/>
+</svg>
